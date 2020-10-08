@@ -5,7 +5,7 @@
    KetuaHima kepala = new KetuaHima();
 
    kepala.setNama("saniati");
-   kepala.setNrp(6304181132);
+   kepala.setNrp(6304181125);
    kepala.setJurusan("Teknik Informatika");
 
    print("Nama : ${kepala.getNama()}");
